@@ -83,3 +83,5 @@ Password:
 [+] Apr 16 06:24:09  Message sent to xxxxxxxxxx on the Google network
 
 ```
+## Example of recipients perspective
+![alt text](https://imgur.com/vYUVc2q)
