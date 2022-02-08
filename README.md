@@ -84,4 +84,4 @@ Password:
 
 ```
 ## Example of recipients perspective
-![alt text](https://imgur.com/vYUVc2q)
+![Test Image 6](master/NotifyPhishSMS.png)
