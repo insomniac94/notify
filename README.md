@@ -84,4 +84,8 @@ Password:
 
 ```
 ## Example of recipients perspective
-![Test Image 6](https://github.com/insomniac94/notify/blob/master/NotifyPhishSMS.png)
+Android:
+![Android_Screenshot](https://github.com/insomniac94/notify/blob/master/NotifyPhishSMS.png)
+
+iOS:
+!iOS_Screenshot](https://github.com/ultrakicks/notify/blob/master/NotifyPhishSMS-iOS.png)
