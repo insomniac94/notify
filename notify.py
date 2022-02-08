@@ -127,7 +127,7 @@ def send_email(number, carrier_email, message):
 
     #main
     email = "sendEmail -f %s -t %s%s -u %s "\
-            "-s %s:%s -o tls=no -xu %s -xp %s -m %s"\
+            "-s %s:%s -o tls=yes -xu %s -xp %s -m %s"\
             % (from_email, number, carrier_email, email_subject, smtp_server, \
             smtp_port, username, password, message)
     try:
@@ -168,11 +168,11 @@ if __name__ == "__main__":
     
     # SMTP settings server and credentials
     #################################################################
-    smtp_server = 'mail.smtp.com'	# gmail smtp: smtp.gmail.com								
-    smtp_port = '2525'				# gmail port: 587
+    smtp_server = 'smtp.gmail.com'								
+    smtp_port = '587'
     from_email = 'notify@computer.com'
     email_subject = 'notify.py'
-    username = ''    		# username
+    username = '' # username
     password = '' # password 
     #################################################################
 
