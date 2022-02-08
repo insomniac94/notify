@@ -88,4 +88,4 @@ Android:
 ![Android_Screenshot](https://github.com/insomniac94/notify/blob/master/NotifyPhishSMS.png)
 
 iOS:
-!iOS_Screenshot](https://github.com/ultrakicks/notify/blob/master/NotifyPhishSMS-iOS.png)
+![iOS_Screenshot](https://github.com/ultrakicks/notify/blob/master/NotifyPhishSMS-iOS.png)
